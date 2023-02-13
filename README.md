@@ -1,5 +1,5 @@
-# Data-Project---Bussines-Intelligence
-Data-Project---Bussines Intelligence
+# Data-Project---Business-Intelligence
+Data-Project---Business Intelligence
 The project consists of the creation of a business intelligence dashboard.
 The technologies used have been for SQL database and for the creation of metrics and visualizations, Power BI. The visualizations have been enriched by means of the DAX formulation. For the project, an example database provided by the company AdventureWorks has been used.
 
